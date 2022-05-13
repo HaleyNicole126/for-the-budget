@@ -8,10 +8,11 @@
 
   ## Table of Contents
   - [Description](#description)
-  - [Installation](#installation)
   - [Usage](#usage)
+  - [Technologies](#technologies) 
+  - [Dependencies](#dependencies)
+  - [Screenshots](#screenshots)
   - [Contributing](#contributing)
-  - [Tests](#tests)
   - [License](#license)
   - [Questions](#questions)
 
