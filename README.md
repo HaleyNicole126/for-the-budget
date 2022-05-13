@@ -22,7 +22,7 @@
   ## Usage
   The user can add transactions to their budget to track their income and expenses. When using the application offline, the user can enter deposits and expenses which are stored until the application is brough back online. 
   
-  ##Technologies
+  ## Technologies
   - JavaScript
   - HTML
   - CSS
@@ -32,7 +32,7 @@
   - Github
   - Heroku
   
-  ##Dependencies
+  ## Dependencies
   - Express.js
   - Mongoose
   - webpack
