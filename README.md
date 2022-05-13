@@ -23,16 +23,16 @@
   
   ## Screenshots
   - *Main Page*
-  - ![image](https://user-images.githubusercontent.com/94570754/168392609-64bda2ba-bb8d-4f6c-93ec-31efcec95522.png)
+   ![image](https://user-images.githubusercontent.com/94570754/168392609-64bda2ba-bb8d-4f6c-93ec-31efcec95522.png)
   
   - *Offline Transactions*
-  - ![image](https://user-images.githubusercontent.com/94570754/168392790-733b63d0-872a-4f5c-b730-457f21af839d.png)
+   ![image](https://user-images.githubusercontent.com/94570754/168392790-733b63d0-872a-4f5c-b730-457f21af839d.png)
    
   - *Pending Transactions in IndexedDB*
-  - ![image](https://user-images.githubusercontent.com/94570754/168392926-c1c3e8b5-bf44-405a-8a18-c07211eae14b.png)
+   ![image](https://user-images.githubusercontent.com/94570754/168392926-c1c3e8b5-bf44-405a-8a18-c07211eae14b.png)
   
   - *Back online and updated*
-  - ![image](https://user-images.githubusercontent.com/94570754/168393238-47a36c4b-bc6b-4fc0-8833-05fab80455ac.png)
+   ![image](https://user-images.githubusercontent.com/94570754/168393238-47a36c4b-bc6b-4fc0-8833-05fab80455ac.png)
 
 
   ## Contributing
