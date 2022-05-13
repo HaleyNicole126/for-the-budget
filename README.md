@@ -21,6 +21,24 @@
   ## Usage
   The user can add transactions to their budget to track their income and expenses. When using the application offline, the user can enter deposits and expenses which are stored until the application is brough back online. 
   
+  ##Technologies
+  - JavaScript
+  - HTML
+  - CSS
+  - Node.js
+  - npm 
+  - MongoDB
+  - Github
+  - Heroku
+  
+  ##Dependencies
+  - Express.js
+  - Mongoose
+  - webpack
+  - webpack-cli
+  - webpack-pwa-manifest
+  - jquery
+  
   ## Screenshots
   - *Main Page*
    ![image](https://user-images.githubusercontent.com/94570754/168392609-64bda2ba-bb8d-4f6c-93ec-31efcec95522.png)
