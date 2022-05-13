@@ -1,6 +1,6 @@
 const CACHE_NAME = 'my-site-cache-v3';
 const DATA_CACHE_NAME = 'data-cache-v3';
-
+// list of files we need to cache for data persistence 
 const FILES_TO_CACHE = [
   '/',
   '/index.html',

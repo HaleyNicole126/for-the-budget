@@ -1,4 +1,4 @@
-// look at module 18
+// look at module 18 for help
 let db;
 // create a new db request for a "budget" database.
 const request = indexedDB.open("budget", 1);
